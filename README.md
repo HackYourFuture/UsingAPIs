@@ -1,5 +1,5 @@
 > Please help us improve and share your feedback! If you find better tutorials
-> or links, please share them by [opening a pull request](https://github.com/HackYourFuture/JavaScript3/pulls).
+> or links, please share them by [opening a pull request](https://github.com/HackYourFuture/UsingAPIs/pulls).
 
 # Module #4 - Using APIs (Frontend)
 
