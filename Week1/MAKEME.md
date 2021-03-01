@@ -3,35 +3,20 @@
 ## **Todo list**
 
 1. Practice the concepts
-2. Refactor Project
+2. Homework exercises
 
 ## **1. Practice the concepts**
 
-This week's concepts can be challenging, therefore let's get an easy introduction using some interactive exercises! Check the following resources out and start practicing:
+This week is tough, asynchronous coding is another one of these programming things that takes awhile to get your head around. Let's start this week off with some interactive exercises! Visit the following link to get started:
 
-- [Learn JavaScript: Requests](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests)
+- [Learn JavaScript: Promises](https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises)
+- [JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript)
 
-## **2. Refactor Project**
+## **2. Homework exercises**
 
-In the following "code along" you'll be building a complete Weather App that makes use of the [Darksky API](https://darksky.net). After you've completed the tutorial you will write a development strategy and refactor the code into a full project structure. Your final repo should:
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 1). Have a look at your class repository on how to hand in the homework.
 
-- use `import`/`export`
-- have development strategy
-- use branches & PRs to organize your development
-- have at least one more user story than the final code of the tutorial
+## Done early?
 
-Enjoy!
+Have a look at the material for next week!
 
-- [Build a Weather App with Vanilla JavaScript Tutorial](https://www.youtube.com/watch?v=wPElVpR1rwA)
-
-## **SUBMIT YOUR HOMEWORK!**
-
-After you've finished your todo list it's time to show us what you got! The homework that needs to be submitted is the following:
-
-1. Refactor project
-
-Upload both to your forked UsingAPIs repository in GitHub. Make a pull request to the HackYourHomework forked repository.
-
-> Forgotten how to upload your homework? Go through the [guide](../hand-in-homework-guide.md) to learn how to do this again.
-
-_Deadline Saturday 23.59 CET_

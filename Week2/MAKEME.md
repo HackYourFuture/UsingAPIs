@@ -3,36 +3,38 @@
 ## **Todo list**
 
 1. Practice the concepts
-2. Refactor project
+2. Code along
+3. Homework exercises
+4. Extra: Code along
 
 ## **1. Practice the concepts**
 
-Let's start this week off with some interactive exercises! Visit the following link to get started:
+This week's concepts can be challenging, therefore let's get an easy introduction using some interactive exercises! Check the following resources out and start practicing:
 
-- [Learn JavaScript: Promises](https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises)
+- [Learn JavaScript: Requests](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests)
 
-## **2. Refactor Project**
+This part also introduces you to some other concepts `XMLHttpRequest`
 
-In this weeks `code along` you'll be building a Bookmarker application. It'll allow a user to add in URLs of their favorite websites in order to save it into a list. After you've completed the tutorial you will write a development strategy and refactor the code into a full project structure. Your final repo should:
+## **2. Code along**
 
-- use `import`/`export`
-- use `async`/`await`
-- have development strategy
-- use branches & PRs to organize your development
-- have at least one more user story than the final code of the tutorial
+In the following "code along" you'll be building a complete Weather App that makes use of the [Darksky API](https://darksky.net).
 
-Happy learning!
+- [Build a Weather App with Vanilla JavaScript Tutorial](https://www.youtube.com/watch?v=wPElVpR1rwA)
 
-- [BookMarker Application](https://www.youtube.com/watch?v=32qhBZacCNc)
+## **3. Homework exercises**
 
-## **SUBMIT YOUR HOMEWORK!**
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the homework.
 
-After you've finished your todo list it's time to show us what you got! The homework that needs to be submitted is the following:
+## **4. Extra: Code along**
 
-1. Refactor project
+If you are done and want to practice some more, the following code along implements a GitHub profile finder using the GitHub API.
 
-Upload your homework to your forked UsingAPIs repository in GitHub. Make a pull request to your teacher's repository.
+- [Using APIs in JavaScript - Create a Github Profile Finder Application](https://www.youtube.com/watch?v=sJspH620ZsU)
 
-> Forgotten how to upload your homework? Go through the [guide](../hand-in-homework-guide.md) to learn how to do this again.
+He uses some things that will be new for you:
+- `scss` - This is what is called a css precompiler that adds some functionality to your css. `sass` is another version of this. Some projects use these, some do not. It is not necessary to know what this does specifically.
+- `package.json` commands with the `live server` extension. This is a way to set up a project, don't worry too much about understanding exactly how it works
 
-_Deadline Saturday 23.59 CET_
+## Done early?
+
+Have a look at the project for next week and start thinking of ideas. You can even start a bit already if you wish, just remember to make sure all your homework is done beforehand!
