@@ -17,7 +17,6 @@ In order to successfully complete this module you will need to master the follow
 - Understand how to write more readable `asynchronous JavaScript`
 - Connect with different `public APIs`
 - Build a `Single Page Application` (SPA)
-- Work with pre-existing code
 
 ## How to use this repository
 
@@ -30,11 +29,11 @@ This repository consists of 2 essential parts per week:
 
 ### How to study
 
-Let's say you are just starting out with the JavaScript3 module. This is what you do...
+Let's say you are just starting out with the Using API's module. This is what you do...
 
-1. The week always starts on **Wednesday**. First thing you'll do is open the `README.md` for that week. For the first week of `JavaScript3`, that would be [Week1 Reading](/Week1/README.md)
+1. The week always starts on **Wednesday**. First thing you'll do is open the `README.md` for that week. For the first week of `Using API's`, that would be [Week1 Reading](/Week1/README.md)
 2. You spend **Wednesday** and **Thursday** going over the resources and try to get a basic understanding of the concepts. In the meanwhile, you'll also implement any feedback you got on last week's homework (from the JavaScript2 module)
-3. On **Friday** you start with the homework, found in the `MAKEME.md`. For the first week of `JavaScript3`, that would be [Week1 Homework](/Week1/MAKEME.md)
+3. On **Friday** you start with the homework, found in the `MAKEME.md`. For the first week of `Using API's`, that would be [Week1 Homework](/Week1/MAKEME.md)
 4. You spend **Friday** and **Saturday** playing around with the exercises and write down any questions you might have
 5. **DEADLINE 1**: You'll submit any questions you might have before **Saturday 23.59**, in the class channel
 6. On **Sunday** you'll attend class. It'll be of the Q&A format, meaning that there will be no new material. Instead your questions shall be discussed and you can learn from others
@@ -47,15 +46,6 @@ In summary:
 ![Weekflow](assets/weekflow.png)
 
 To have a more detailed overview of the guidelines, please read [this document](https://docs.google.com/document/d/1JUaEbxMQTyljAPFsWIbbLwwvvIXZ0VCHmCCN8RaeVIc/edit?usp=sharing) or ask your mentor/class on Slack!
-
-### Video lectures
-
-For each module HackYourFuture provides you with video lectures. These are made by experienced software developers who know what they're talking about. The main teacher for this module will be [Stasel Seldin](https://hackyourfuture.slack.com/team/UQJGC1MSL): senior iOS developer!
-
-You can find out more about him here:
-
-- [GitHub](https://github.com/Stasel)
-- [@Stasel on Slack](https://hackyourfuture.slack.com/team/UQJGC1MSL)
 
 ## Planning
 
