@@ -10,6 +10,7 @@ These are the topics for week 2:
 2. [Fetch API](https://study.hackyourfuture.net/#/the-internet/fetch)
 3. [Async/Await](https://study.hackyourfuture.net/#/javascript/modern-js)
    - Catching errors with try/catch
+4. [Continue interview preparation](https://github.com/HackYourFuture/interviewpreparation)
 
 ## Week goals
 
@@ -22,6 +23,8 @@ There are many ways to request data from an API, initially everything was done u
 Last week we learned about Promises and with the increased use of promises, modern JavaScript introduced some new syntax that can be used with those promises. Have a look at the section on Async/await in the modern JavaScript page of your study book [here]((https://study.hackyourfuture.net/#/javascript/modern-js)) now that you know what promises are so that you know what it does.
 
 You will probably ask yourself now which way is best to handle asynchronous code and the answer is that there is no best way. Generally callbacks are great for simple applications, but get into callback hell if stuff gets too complicated. Promises with `.then` chains are great for many more complex situations where the chaining can be very powerful, but can be a little hard to follow for people who do not have much experience with them. Using async/await makes the code look a little more synchronous again and that can make it easier to follow. It does, however, make it a little more complex to handle errors or situations where something absolutely needs to be done (a `finally` is invaluable in these situations). So, it is up to you to decide based on the situation what to use. 
+
+Also, don't forget about the [interview preparation repo](https://github.com/HackYourFuture/interviewpreparation) if you didn't manage to complete it last week.
 
 ## Finished?
 

@@ -5,7 +5,8 @@
 1. Practice the concepts
 2. Code along
 3. Homework exercises
-4. Extra: Code along
+4. Interview preparation
+5. Extra: Code along
 
 ## **1. Practice the concepts**
 
@@ -23,9 +24,21 @@ In the following "code along" you'll be building a complete Weather App that mak
 
 ## **3. Homework exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the homework.
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the technical homework.
 
-## **4. Extra: Code along**
+## **4. Interview preparation**
+
+There are a few questions that most job interviewers will ask, which means you can be prepared for them. Prepare a document with your answers to the following questions:
+
+- Can you tell me about yourself?
+- Why do you want to work as a developer? 
+- Why would a company hire you?
+- What are your weaknesses?
+- How does your ideal job look like?
+
+For this, please make a copy of [this file](https://docs.google.com/document/u/2/d/114rTGS4eG6tpkrMAyVIdvgTrnpmkRL6ax_smkw1B0HI/copy). During the meeting you had at the start of this module it should have been made clear where to send a link to your file. If unsure, just ask in the class channel!
+
+## **5. Extra: Code along**
 
 If you are done and want to practice some more, the following code along implements a GitHub profile finder using the GitHub API.
 
