@@ -28,15 +28,8 @@ This week we expect you to do the exercises in the corresponding module/week fol
 
 ## **4. Interview preparation**
 
-There are a few questions that most job interviewers will ask, which means you can be prepared for them. Prepare a document with your answers to the following questions:
+After reading the info on the [‘Interview Preparation’ Repo](https://github.com/HackYourFuture/interviewpreparation), make a copy of [this file](https://docs.google.com/document/u/2/d/114rTGS4eG6tpkrMAyVIdvgTrnpmkRL6ax_smkw1B0HI/copy) and submit your answers to the team [here](https://hackyourfuture.typeform.com/to/s6zYAugm). These answers will help us assess how ready you are for interviews and we will also discuss your answers in the Career Training Session II which will happen this (or next) week. More information about this session will be shared on Slack!
 
-- Can you tell me about yourself?
-- Why do you want to work as a developer? 
-- Why would a company hire you?
-- What are your weaknesses?
-- How does your ideal job look like?
-
-For this, please make a copy of [this file](https://docs.google.com/document/u/2/d/114rTGS4eG6tpkrMAyVIdvgTrnpmkRL6ax_smkw1B0HI/copy). During the meeting you had at the start of this module it should have been made clear where to send a link to your file. If unsure, just ask in the class channel!
 
 ## **5. Extra: Code along**
 
