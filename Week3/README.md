@@ -15,6 +15,7 @@ We want you to get excited and be free to build something you are passionate abo
 ## Ideas
 There are many APIs that are open to get data from, have a look at the following lists to see if there is a topic that interests you:
 
+- [publicapi.dev](https://publicapi.dev)
 - [public api repo](https://github.com/public-apis/public-apis)
 - [API list](https://apilist.fun/)
 - [Public APIs](https://public-apis.io/)
@@ -28,6 +29,11 @@ If you are unsure, contact your project mentor.
 2. Is the data available that I want?
 
 Have a look through the end points (there is documentation for every API) and check how the endpoints are structured. What data is available and will you be able to get what you need? You can even already query it a bit with `Postman` to try some things out.
+
+3. Does the API support CORS?
+
+CORS stands for Cross-Origin Resource Sharing and can be a problem when interacting with an API. In some of the lists above you can see or filter on if it is supported and you should be fine. The best way to check this is to try to do a request of the API via a fetch command in the browser as you have learned last week. Then you know for sure it works as expected!
+For more information about CORS have a look at the [MDN article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 If you really are stuck and have no inspiration, have a chat with your project mentor and talk it through together to come up with something.
 
