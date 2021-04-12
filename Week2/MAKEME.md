@@ -5,7 +5,8 @@
 1. Practice the concepts
 2. Code along
 3. Homework exercises
-4. Extra: Code along
+4. Interview preparation
+5. Extra: Code along
 
 ## **1. Practice the concepts**
 
@@ -23,9 +24,14 @@ In the following "code along" you'll be building a complete Weather App that mak
 
 ## **3. Homework exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the homework.
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the technical homework.
 
-## **4. Extra: Code along**
+## **4. Interview preparation**
+
+After reading the info on the [‘Interview Preparation’ Repo](https://github.com/HackYourFuture/interviewpreparation), make a copy of [this file](https://docs.google.com/document/u/2/d/114rTGS4eG6tpkrMAyVIdvgTrnpmkRL6ax_smkw1B0HI/copy) and submit your answers to the team [here](https://hackyourfuture.typeform.com/to/s6zYAugm). These answers will help us assess how ready you are for interviews and we will also discuss your answers in the Career Training Session II which will happen this (or next) week. More information about this session will be shared on Slack!
+
+
+## **5. Extra: Code along**
 
 If you are done and want to practice some more, the following code along implements a GitHub profile finder using the GitHub API.
 
