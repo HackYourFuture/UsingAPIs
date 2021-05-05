@@ -46,9 +46,14 @@ By *Thursday 18:00PM CET* (but the earlier the better) you should send a short d
 ### Deadline 2: Application
 By *Tuesday 23:59PM CET* you should send a link to your github project to the Education Director. Make sure that everything works for them! The best way to test this is to clone your repository to a new directory on your computer and try to run it there. 
 
+## Grading
+After finishing the project you will get another technical interview about your own project (similar to what you had in the [Browsers module](https://github.com/HackYourFuture/Browsers/blob/main/PROJECT.md#the-interview)) to determine if you can go on to the project. Keep track of your class channel to see when these will be.
+
+_Note: The difficulty of the application affects the grading in two ways:_
+- You get extra points for creating a difficult application (things like making your own hooks, good state management, loads of features, etc)
+- We will expect simpler applications to have better structured code and be more lenient on complexer applications
+
 ## Final remarks
 Enjoy the project!
-
-After finishing the project you will get another technical interview about your own project (similar to what you had in the [Browsers module](https://github.com/HackYourFuture/Browsers/blob/main/PROJECT.md#the-interview)) to determine if you can go on to the next module. Keep track of your class channel to see when these will be.
 
 
