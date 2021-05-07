@@ -50,8 +50,8 @@ By *Tuesday 23:59PM CET* you should send a link to your github project to the Ed
 After finishing the project you will get another technical interview about your own project (similar to what you had in the [Browsers module](https://github.com/HackYourFuture/Browsers/blob/main/PROJECT.md#the-interview)) to determine if you can go on to the project. Keep track of your class channel to see when these will be.
 
 _Note: The difficulty of the application affects the grading in two ways:_
-- You get extra points for creating a difficult application (things like making your own hooks, good state management, loads of features, etc)
-- We will expect simpler applications to have better structured code and be more lenient on complexer applications
+- You get extra points for creating a difficult application (things like multiple pages, using multiple data sources, having many features, etc)
+- We will expect simpler applications to have better structured code and will be more lenient on complexer applications
 
 ## Final remarks
 Enjoy the project!
