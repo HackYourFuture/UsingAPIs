@@ -51,7 +51,7 @@ After finishing the project you will get another technical interview about your 
 
 _Note: The difficulty of the application affects the grading in two ways:_
 - You get extra points for creating a difficult application (things like multiple pages, using multiple data sources, having many features, etc)
-- We will expect simpler applications to have better structured code and will be more lenient on complexer applications
+- We will expect simpler applications to have better structured code and will be more lenient on more complex applications
 
 ## Final remarks
 Enjoy the project!
