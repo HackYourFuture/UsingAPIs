@@ -24,7 +24,7 @@ In the following "code along" you'll be building a complete Weather App that mak
 
 ## **3. Homework exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at your class repository on how to hand in the technical homework.
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at the [homework guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/homework-handin-guide.md) to see how to hand in your homework.
 
 ## **4. Interview preparation**
 
