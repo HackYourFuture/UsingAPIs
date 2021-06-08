@@ -9,7 +9,7 @@
 
 This week is tough, asynchronous coding is another one of these programming things that takes awhile to get your head around. Let's start this week off with some interactive exercises! Visit the following link to get started:
 
-- [Learn JavaScript: Promises](https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises)
+- [Learn JavaScript: Promises](https://www.codecademy.com/learn/introduction-to-javascript/modules/javascript-promises). _Note that the last exercise is not necessary, it is very complicated and something that is rarely used. You will not need to be able to do this. See it as a challenge!_
 - [JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript)
 
 ## **2. Homework exercises**
