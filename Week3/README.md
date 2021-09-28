@@ -12,6 +12,7 @@ We want you to get excited and be free to build something you are passionate abo
 - The app needs to have loading/error handling for the interaction with the API.
 - The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
 - The UI needs to be testable. Have a look at the Browsers repository to remind yourself what that means.
+- Follow the [guidelines for technical assignments](https://github.com/HackYourFuture/ta_guidelines). This will help you not get stuck or end up with only half an application and make sure that what you have at the end is something presentable.
 
 ## Ideas
 There are many APIs that are open to get data from, have a look at the following lists to see if there is a topic that interests you:
