@@ -26,10 +26,11 @@ In the following "code along" you'll be building a complete Weather App that mak
 
 This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at the [homework guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/homework-handin-guide.md) to see how to hand in your homework.
 
+*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
+
 ## **4. Interview preparation**
 
 After reading the info on the [‘Interview Preparation’ Repo](https://github.com/HackYourFuture/interviewpreparation), make a copy of [this file](https://docs.google.com/document/u/2/d/114rTGS4eG6tpkrMAyVIdvgTrnpmkRL6ax_smkw1B0HI/copy) and submit your answers to the team [here](https://hackyourfuture.typeform.com/to/s6zYAugm). These answers will help us assess how ready you are for interviews and we will also discuss your answers in the Career Training Session II which will happen this (or next) week. More information about this session will be shared on Slack!
-
 
 ## **5. Extra: Code along**
 
