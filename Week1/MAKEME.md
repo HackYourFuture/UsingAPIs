@@ -16,6 +16,8 @@ This week is tough, asynchronous coding is another one of these programming thin
 
 This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 1). Have a look at the [homework guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/homework-handin-guide.md) to see how to hand in your homework.
 
+*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
+
 ## Done early?
 
 Have a look at the material for next week!
