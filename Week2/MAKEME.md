@@ -12,7 +12,7 @@
 
 This week's concepts can be challenging, therefore let's get an easy introduction using some interactive exercises! Check the following resources out and start practicing:
 
-- [Learn JavaScript: Requests](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests)
+- [Learn JavaScript: Requests](https://www.codecademy.com/learn/learn-intermediate-javascript/modules/intermediate-javascript-requests)
 
 This part also introduces you to some other concepts `XMLHttpRequest`
 
