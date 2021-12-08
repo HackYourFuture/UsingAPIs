@@ -4,16 +4,16 @@
 
 1. Practice the concepts
 2. Prep exercises
-2. Code along
-3. Homework exercises
-4. Interview preparation
-5. Extra: Code along
+3. Code along
+4. Homework exercises
+5. Interview preparation
+6. Extra: Code along
 
 ## **1. Practice the concepts**
 
 This week's concepts can be challenging, therefore let's get an easy introduction using some interactive exercises! Check the following resources out and start practicing:
 
-- [Learn JavaScript: Requests](https://www.codecademy.com/learn/introduction-to-javascript/modules/intermediate-javascript-requests)
+- [Learn JavaScript: Requests I and II](https://www.codecademy.com/learn/learn-intermediate-javascript/modules/intermediate-javascript-requests) (only the two lessons, not the articles/project and quiz)
 
 This part also introduces you to some other concepts `XMLHttpRequest`
 
@@ -32,6 +32,8 @@ In the following "code along" you'll be building a complete Weather App that mak
 ## **4. Homework exercises**
 
 This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 2). Have a look at the [homework guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/homework-handin-guide.md) to see how to hand in your homework.
+
+*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
 
 ## **5. Interview preparation**
 
