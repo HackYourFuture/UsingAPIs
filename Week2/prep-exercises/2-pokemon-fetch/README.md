@@ -4,6 +4,10 @@ Until this week the code you have been working on is mostly your own and is gene
 
 In this exercise we'll focus on the fetching and error handling part of working with an API, which you can use to work with any other code where a possible problem can occur. The `index.js` gives you instructions on what to do, there is some code there already, but feel free to alter that if needed.
 
+The expected behaviour is as follows:
+
+- When you press the **Get Data** button with the **Use invalid URL** checkbox **unchecked** the data from the Pokemon API will be fetched and rendered as JSON on the page.
+- When you press the button with the checkbox **checked** an HTTP error message will be rendered on the page.
 ## Things to think about
 
 - If you look at the `index.html` you can see our error rendering is put into a regular `div` element, but our pokemon json is put into a `pre` element. Why is that?
