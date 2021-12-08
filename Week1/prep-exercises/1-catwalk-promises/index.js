@@ -10,7 +10,7 @@ function walk(img, startPos, stopPos) {
   return new Promise((resolve) => {
     // Resolve this promise when the cat (`img`) has walked from `startPos` to
     // `stopPos`.
-    // Make use good use of the `STEP_INTERVAL_PX` and `STEP_INTERVAL_MS`
+    // Make good use of the `STEP_INTERVAL_PX` and `STEP_INTERVAL_MS`
     // constants.
   });
 }
