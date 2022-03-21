@@ -66,6 +66,8 @@ _Note: following the technical assignment guidelines will also be a part of the 
 - Make sure you have read the [technical assignment guidelines](https://github.com/HackYourFuture/ta_guidelines) and that your code and README follows these guidelines
 
 ## Final remarks
-Enjoy the project!
+As you are all working on the projects this week there will not be a Q&A session on Sunday this week.
+
+Enjoy getting practical!
 
 
