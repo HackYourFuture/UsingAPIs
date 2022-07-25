@@ -7,11 +7,12 @@ This is quite a big undertaking, so during the project one of the mentors for th
 ## Project requirements
 We want you to get excited and be free to build something you are passionate about, but there are some things that we need to see you have mastered. This means there are a few requirements:
 
-- The app needs to be a single page application. That means only one `index.html` file and JavaScript needs to update the html using DOM manipulation.
+- The app needs to be responsive.
+- The app needs to be a single page application. That means there should be only one `index.html` file and JavaScript needs to update the html using DOM manipulation.
 - The app needs to interact with an API to grab data.
-- The app needs to have loading/error handling for the interaction with the API.
+- The app needs to have loading/error handling for the interaction with the API and needs to show this to the user, not just a `console.log`.
 - The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
-- Follow the [guidelines for technical assignments](https://github.com/HackYourFuture/ta_guidelines). This will help you not get stuck or end up with only half an application and make sure that what you have at the end is something presentable.
+- Follow the [guidelines for technical assignments](https://github.com/HackYourFuture/ta_guidelines) to already practice making these for later. This will also help you not get stuck or end up with only half an application and make sure that what you have at the end is something presentable.
 
 ## Ideas
 There are many APIs that are open to get data from, have a look at the following lists to see if there is a topic that interests you:
@@ -37,6 +38,9 @@ CORS stands for Cross-Origin Resource Sharing and can be a problem when interact
 For more information about CORS have a look at the [MDN article](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 If you really are stuck and have no inspiration, have a chat with your project mentor and talk it through together to come up with something.
+
+## Tip: Get a JSON viewer extension for Chrome
+Something like [this extension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) will make it easier to work with an API. If your request returns JSON, which the API's do, it will format it nicely in your browsers so that you can easily navigate what the API is giving you.
 
 ## Final product
 The final product (the repository is the product, not just the application) should be something that you can show off on your CV. So have a look at our technical assignment guidelines [here](https://github.com/HackYourFuture/ta_guidelines) and our design guidelines [here](https://github.com/HackYourFuture/design_guidelines) to see what it entails. By following those guidelines your app AND your code will look great, making it a great thing to show off to employers. You will also get into the habit of doing this with all the technical assignments you will get during your job search.
@@ -66,7 +70,7 @@ _Note: following the technical assignment guidelines will also be a part of the 
 - Make sure you have read the [technical assignment guidelines](https://github.com/HackYourFuture/ta_guidelines) and that your code and README follows these guidelines
 
 ## Final remarks
-As you are all working on the projects this week there will not be a Q&A session on Sunday this week.
+As you are all working on the projects this week there will not be a Q&A session on Sunday.
 
 Enjoy getting practical!
 
