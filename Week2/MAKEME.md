@@ -25,7 +25,7 @@ Inside your `Using API's` fork, go to the folder `Week2`. Inside of that folder,
 
 ## **3. Code along**
 
-In the following "code along" you'll be building a complete Weather App that makes use of the [Darksky API](https://darksky.net).
+In the following "code along" you'll be building a complete Weather App that makes use of the [Darksky API](https://darksky.net). Darksky has stopped supporting signups, so you can use an alternative [openweathermap API](https://openweathermap.org). For the icons you can use the url `http://openweathermap.org/img/wn/${icon}@2x.png` where ${icon} is where you need to put the data.
 
 - [Build a Weather App with Vanilla JavaScript Tutorial](https://www.youtube.com/watch?v=wPElVpR1rwA)
 
