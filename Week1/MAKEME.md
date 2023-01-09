@@ -11,7 +11,7 @@
 This week is tough, asynchronous coding is another one of these programming things that takes awhile to get your head around. Let's start this week off with some interactive exercises! Visit the following link to get started:
 
 - [Visualising Asynchronicity](https://www.jsv9000.app/). _Note that you do not need to actually solve anything here, but you can use this visualizer to see how asynchronicity works under the hood. Very cool!_
-- [Learn JavaScript: Promises](https://www.codecademy.com/learn/learn-intermediate-javascript/modules/javascript-promises). _Note that the last exercise is not necessary, it is very complicated and something that is rarely used. You will not need to be able to do this. See it as a challenge!_
+- [Learn JavaScript: Promises](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/promises/exercises/constructing-promises). _Note that the last exercise is not necessary, it is very complicated and something that is rarely used. You will not need to be able to do this. See it as a challenge!_
 - [JavaScript promises, mastering the asynchronous](https://www.codingame.com/playgrounds/347/javascript-promises-mastering-the-asynchronous/what-is-asynchronous-in-javascript)
 
 ## **2. Prep exercises**
