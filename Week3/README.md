@@ -12,6 +12,7 @@ We want you to get excited and be free to build something you are passionate abo
 - The app needs to interact with an API to grab data.
 - The app needs to have loading/error handling for the interaction with the API and needs to show this to the user, not just a `console.log`.
 - The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
+- You are *not* allowed to do a code-along or tutorial for this project, the goal is for you to build something yourself!
 - Follow the [guidelines for technical assignments](https://github.com/HackYourFuture/ta_guidelines) to already practice making these for later. This will also help you not get stuck or end up with only half an application and make sure that what you have at the end is something presentable.
 
 ## Ideas
