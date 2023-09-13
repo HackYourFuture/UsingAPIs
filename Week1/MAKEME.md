@@ -1,10 +1,10 @@
-# Homework Using API's Week 1
+# Assignments Using API's Week 1
 
 ## **Todo list**
 
 1. Practice the concepts
 2. Prep exercises
-3. Homework exercises
+3. Assignments exercises
 4. Career Training 1 (If not completed yet)
 
 ## **1. Practice the concepts**
@@ -21,18 +21,18 @@ This week is tough, asynchronous coding is another one of these programming thin
 
 Inside your `Using API's` fork, go to the folder `Week1`. Inside of that folder, navigate to `/prep-exercises`. For each exercise, you will find a separate folder. The `README` explains what needs to be done. There will also be some questions at the bottom to think about. Go through them _before_ the session on Sunday as it will be covered then.
 
-## **3. Homework exercises**
+## **3. Assignments exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 1). Have a look at the [homework guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/homework-handin-guide.md) to see how to hand in your homework.
+This week we expect you to do the exercises in the corresponding module/week folder (Using API's / Week 1). Have a look at the [assignments guide](https://github.com/HackYourFuture/UsingAPIs/blob/main/hand-in-assignments-guide.md) to see how to hand in your assignments.
 
-*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
+*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous assignments will be a part of the PR*
 
 ## **4. Career Training 1 (If not completed yet)**
 
 Remember that the Career Training 1 session is coming up (check your class channel on slack for the exact date). Before the session make sure you have:
 
 - Read the whole [personal brand repository](https://github.com/HackYourFuture/yourpersonalbrand).
-- Done the [homework](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#4-submitting-your-cv-to-the-hyf-team) for the repository.
+- Done the [assignments](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#4-submitting-your-cv-to-the-hyf-team) for the repository.
 
 ## Done early?
 

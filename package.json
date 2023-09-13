@@ -4,7 +4,7 @@
   "description": "Course content for the JavaScript3 module",
   "repository": "https://github.com/HackYourFuture/JavaScript3.git",
   "scripts": {
-    "lint": "eslint homework",
+    "lint": "eslint assignments",
     "test": "npm run lint"
   },
   "author": "HackYourFuture",

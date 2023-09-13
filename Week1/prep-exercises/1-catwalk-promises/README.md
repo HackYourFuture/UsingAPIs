@@ -2,7 +2,7 @@
 
 In the Browsers module you made an exercise to make a cat walk on the screen until it was halfway, then do a dance for 5 seconds after which it will continue walking until the end of the screen. In this exercise the result should be the same, but this time we want to use `Promise`s to write it in a different way.
 
-Have a look [here](https://github.com/HackYourFuture/Homework/tree/main/2-Browsers/Week1#exercise-5-the-cat-walk) to remind yourself what the goal of the code was and then do the steps written in `index.js`. We have already provided a couple of functions for you.
+Have a look [here](https://github.com/HackYourFuture/Assignments/tree/main/2-Browsers/Week1#exercise-5-the-cat-walk) to remind yourself what the goal of the code was and then do the steps written in `index.js`. We have already provided a couple of functions for you.
 
 ## Things to think about
 
