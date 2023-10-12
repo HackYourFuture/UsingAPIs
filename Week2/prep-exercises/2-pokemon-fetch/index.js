@@ -1,4 +1,7 @@
 'use strict';
+
+// const errors = require('eslint-plugin-import/config/errors');
+
 /*------------------------------------------------------------------------------
  * In this exercise you will practice fetching data from a web API, using
  * `fetch`, promises, async/await and try/catch.
@@ -16,11 +19,12 @@ const VALID_URL = 'https://pokeapi.co/api/v2/pokemon/?limit=5';
 const INVALID_URL = 'https://pokeapi.co/api/v2/pokemons/?limit=5';
 
 async function fetchJSON(url) {
-  // TODO
-
-  // Fetch the JSON data from the web API that responds to the `url` parameter
-  // and return a promise that resolves to a corresponding JavaScript object.
-  // Make sure to check for HTTP errors.
+  const responds = await fetch(url);
+  if (!responds.ok) {
+    throw new Error(` Not-Ok: ${responds.statusText}`);
+  }
+  const data = await responds.json();
+  return data;
 }
 
 function renderResults(pokemons) {
@@ -52,11 +56,49 @@ function main() {
     const option = document.querySelector('#option');
     const url = option.checked ? INVALID_URL : VALID_URL;
 
-    // TODO
-    // Use `fetchJSON()` to fetch data from the selected url.
-    // If successful, render the data by calling function `renderResults()`.
-    // On failure, render the error by calling function `renderError()`.
+    // Immediately Invoked Function Expression (IIFE) to make it async
+    (async () => {
+      try {
+        // Attempt to fetch JSON data from the selected URL
+        const data = await fetchJSON(url);
+
+        // If successful, render the results
+        renderResults(data);
+      } catch (err) {
+        // On failure, render the error message
+        renderError(err.message);
+      }
+    })();
   });
 }
 
 window.addEventListener('load', main);
+/*
+{
+  "count": 1292,
+  "next": "https://pokeapi.co/api/v2/pokemon/?offset=5&limit=5",
+  "previous": null,
+  "results": [
+    {
+      "name": "bulbasaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/1/"
+    },
+    {
+      "name": "ivysaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/"
+    },
+    {
+      "name": "venusaur",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/"
+    },
+    {
+      "name": "charmander",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    }
+  ]
+}
+*/
