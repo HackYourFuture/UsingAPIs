@@ -10,8 +10,7 @@ These are the topics for week 2:
 2. [Fetch API](https://study.hackyourfuture.net/#/the-internet/fetch)
 3. [Async/Await](https://study.hackyourfuture.net/#/javascript/modern-js)
    - Catching errors with try/catch
-4. [Interview preparation](https://github.com/HackYourFuture/interviewpreparation)
-5. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
+4. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
 
 ## Week goals
 
