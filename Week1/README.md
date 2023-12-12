@@ -14,7 +14,6 @@ These are the topics for week 1:
    - Chaining
    - Benefits
 3. [The Event Loop](https://study.hackyourfuture.net/#/the-internet/event-loop)
-4. [Your personal brand](https://github.com/HackYourFuture/yourpersonalbrand) - Continue reading!
 
 ## Week goals
 
