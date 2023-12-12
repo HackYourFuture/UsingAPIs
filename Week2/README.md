@@ -24,9 +24,12 @@ Last week we learned about Promises and with the increased use of promises, mode
 
 You will probably ask yourself now which way is best to handle asynchronous code and the answer is that there is no best way. Generally callbacks are great for simple applications, but get into callback hell if stuff gets too complicated. Promises with `.then` chains are great for more complex situations where the chaining can be very powerful, but can be a little hard to follow for people who do not have much experience with them. Using async/await makes the code look a little more synchronous again and that can make it easier to follow. It does, however, make it a little more complex to handle errors or situations where something absolutely needs to be done (a `finally` is invaluable in these situations). So, it is up to you to decide based on the situation what to use. 
 
-## Career training II (Interview preparation)
-If you haven't finished all the material yet, then continue with it this week.
+## Career training 1 (Your personal brand)
 
-## Finished?
+After the project you will have your first project that you can put on your CV! For now that is, as you will want to add many more in the future as you progress in your abilities. It is therefore time to start thinking about all of the steps required to start the job search and getting accepted to your first programming job. The first step to this will be handled in Career training 1: Your personal brand. This is all about making your CV, GitHub, LinkedIn, etc. stand out. These are the first things employers will look at so it is your first impression and has to be great! We have compiled a big list of information about how to go about creating your personal brand in [this repo](https://github.com/HackYourFuture/yourpersonalbrand).
 
-Are you finished with going through the materials? High five! If you feel ready to get practical, click [here](./MAKEME.md).
+### Career training 1: Planning
+
+You don't have to do all of this at this moment. Before the end of the Browsers module you will get a message in your cohort channel about when the Career Training 1 session will be. *Before* that session make sure to have:
+- Read the whole [personal brand repository](https://github.com/HackYourFuture/yourpersonalbrand).
+- Done the [assignment](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#4-submitting-your-cv-to-the-hyf-team) for the repository.
