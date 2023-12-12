@@ -2,13 +2,13 @@
 
 In the final week of the Using API's module you will put everything you have learned to good use and build your own single page application that is connected to an API! What you build is totally up to you. Maybe you already had an idea in your head for a while, or maybe you will get inspired by all the open API's that are available.
 
-This is quite a big undertaking, so during the project one of the mentors for this module will be assigned to you. Feel free to ask them for help if you are stuck or unsure, but they have been instructed to not write any code for you :).
+This is quite a big undertaking, so you will have a mentor assigned to you to assist you in the project. Feel free to ask them for help if you are stuck or unsure, but they have been instructed to not write any code for you :).
 
 ## Project requirements
 We want you to get excited and be free to build something you are passionate about, but there are some things that we need to see you have mastered. This means there are a few requirements:
 
 - The app needs to be responsive.
-- The app needs to be a single page application. That means there should be only one `index.html` file and JavaScript needs to update the html using DOM manipulation.
+- The app needs to be a single page application. That means there should be only one `index.html` file and JavaScript needs to update the HTML using DOM manipulation.
 - The app needs to interact with an API to grab data.
 - The app needs to have loading/error handling for the interaction with the API and needs to show this to the user, not just a `console.log`.
 - The app needs some user interaction such that you need to grab different data from the API. So you cannot just grab everything from the API and store it locally with one fetch.
@@ -44,10 +44,10 @@ If you really are stuck and have no inspiration, have a chat with your project m
 Something like [this extension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) will make it easier to work with an API. If your request returns JSON, which the API's do, it will format it nicely in your browsers so that you can easily navigate what the API is giving you.
 
 ## Final product
-The final product (the repository is the product, not just the application) should be something that you can show off on your CV. So have a look at our technical assignment guidelines [here](https://github.com/HackYourFuture/ta_guidelines) and our design guidelines [here](https://github.com/HackYourFuture/design_guidelines) to see what it entails. By following those guidelines your app AND your code will look great, making it a great thing to show off to employers. You will also get into the habit of doing this with all the technical assignments you will get during your job search.
+The final product (the repository is the product, not just the application) should be something that you can show off on your CV. So have a look at our technical assignment guidelines [here](https://github.com/HackYourFuture/ta_guidelines) and our design guidelines [here](https://github.com/HackYourFuture/design_guidelines) to see what it entails. By following those guidelines your app _and_ your code will look great, making it a great thing to show off to employers. You will also get into the habit of doing this with all the technical assignments you will get during your job search.
 
 ## Planning and deadlines
-There are only 2 deadlines in the project, how you divide your time for the rest is up to you.
+There are only two deadlines for the project; how you divide your time for the rest is up to you.
 
 ### Deadline 1: Project definition
 By *Thursday 18:00PM CET* (but the earlier the better) you should send a short description of what your app will be as well as the name of the company whose brand/colour palette you will be mimicking to your project mentor.
@@ -74,5 +74,3 @@ _Note: following the technical assignment guidelines will also be a part of the 
 As you are all working on the projects this week there will not be a Q&A session on Sunday.
 
 Enjoy getting practical!
-
-
