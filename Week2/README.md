@@ -11,6 +11,7 @@ These are the topics for week 2:
 3. [Async/Await](https://study.hackyourfuture.net/#/javascript/modern-js)
    - Catching errors with try/catch
 4. [Interview preparation](https://github.com/HackYourFuture/interviewpreparation)
+5. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
 
 ## Week goals
 
