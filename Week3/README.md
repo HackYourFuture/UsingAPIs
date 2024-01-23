@@ -21,7 +21,6 @@ There are many APIs that are open to get data from, have a look at the following
 - [publicapi.dev](https://publicapi.dev)
 - [public api repo](https://github.com/public-apis/public-apis)
 - [API list](https://apilist.fun/)
-- [Public APIs](https://public-apis.io/)
 
 When looking to see if an API is suitable for you there are a couple of questions to check:
 1. Is the API rated, and if so how?
