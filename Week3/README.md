@@ -19,9 +19,10 @@ We want you to get excited and be free to build something you are passionate abo
 There are many APIs that are open to get data from, have a look at the following lists to see if there is a topic that interests you:
 
 - [publicapi.dev](https://publicapi.dev)
-- [public api repo](https://github.com/public-apis/public-apis)
+- [public API repo](https://github.com/public-apis/public-apis)
 - [API list](https://apilist.fun/)
 - [Public APIs](https://public-apis.io/)
+- [RapidAPI](https://rapidapi.com/hub)
 
 When looking to see if an API is suitable for you there are a couple of questions to check:
 1. Is the API rated, and if so how?
