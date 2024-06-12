@@ -7,10 +7,11 @@ These are the topics for week 2:
 1. [Application Programming Interface (API)](https://study.hackyourfuture.net/#/the-internet/api)
    - Public/private APIs
    - Connecting with APIs
-2. [Fetch API](https://study.hackyourfuture.net/#/the-internet/fetch) and [CORS](https://study.hackyourfuture.net/#/the-internet/cors)
-3. [Async/Await](https://study.hackyourfuture.net/#/javascript/modern-js)
+2. [Fetch API](https://study.hackyourfuture.net/#/the-internet/fetch) 
+3.  [CORS](https://study.hackyourfuture.net/#/the-internet/cors)
+4. [Async/Await](https://study.hackyourfuture.net/#/javascript/modern-js)
    - Catching errors with try/catch
-4. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
+5. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
 
 ## Week goals
 
